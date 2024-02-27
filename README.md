@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/D5635AQHPqkSySX6AGg/profile-framedphoto-shrink_200_200/0/1708999617510?e=1709618400&v=beta&t=J8Ol5v5TxOcAW2iQqNnX-jK3XzUBqpMq3SCFYHwwCxM"  />
+  <img height="250" src="https://media.licdn.com/dms/image/C5603AQHVoj5yqte-Mw/profile-displayphoto-shrink_800_800/0/1662378361406?e=2147483647&v=beta&t=UPWmBxG1GortRGIJmOkeJKEYf4EuCsclhBTWUTUk4oo"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/inas-lathifah" target="_blank">
+  <a href="www.linkedin.com/in/irsan-jamaludin-102945173" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
 </div>
