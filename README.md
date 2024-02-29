@@ -1,9 +1,5 @@
-<div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/C5603AQHVoj5yqte-Mw/profile-displayphoto-shrink_800_800/0/1662378361406?e=2147483647&v=beta&t=UPWmBxG1GortRGIJmOkeJKEYf4EuCsclhBTWUTUk4oo"  />
-</div>
 
-###
-
+<h1 align="center">Hi, I'm Irsan Jamaludin 👋</h1>
 <div align="center">
   <a href="https://linkedin.com/in/irsan-jamaludin-102945173" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
@@ -11,19 +7,11 @@
 </div>
 
 ###
-<div align="center">
 
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finaslathifah&label=Visitors&countColor=%232c94e4&style=flat)
-
-</div>
 
 ###
 
-<h1 align="center">Hi, I'm Irsan Jamaludin 👋</h1>
-
-###
-
-<h3 align="left">&#129493;&#128187;  About Me</h3>
+<h3 align="left">&#129492;&#128187;  About Me</h3>
 
 ###
 
