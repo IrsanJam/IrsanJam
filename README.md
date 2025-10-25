@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Some Programming courses**
 
-- 💬 Ask me about **React, NextJs and TailwindCSS**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **irsandjamaludin@gmail.com**
 
