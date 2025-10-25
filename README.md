@@ -1,12 +1,13 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D12AQGSYeOiDEse_w/article-cover_image-shrink_720_1280/0/1690480297008?e=2147483647&v=beta&t=qo-d57adiWQNP8FodRI0nA-x_IraS0aeZOyh-NIDOr4" align="center" style="width: 100%" />
+<img src="![17614343688394789272766179464471](https://github.com/user-attachments/assets/818205e6-5922-4c6b-8450-768d555e7ff5)"
+ align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">Hi 👋, I'm Irsan Jamaludin</div>  
   
 
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Software developer from Indonesia</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
